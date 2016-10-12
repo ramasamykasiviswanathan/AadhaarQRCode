@@ -1,0 +1,12 @@
+**.class
+**.log
+.settings
+.settings/**
+.project
+.project/**
+.git
+.git/**
+.classpath
+.DS_STORE
+target
+target/**
